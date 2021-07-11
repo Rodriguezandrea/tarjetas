@@ -1,4 +1,4 @@
-# Proyecto de targetas con HTML y CSS #
+# Proyecto de tarjetas con HTML y CSS #
 
 Bueno, este proyecto es una práctica que hice para aprender y prácticar HTML, CSS, GIT y GitHub con el siguiente vídeo
 [Link](https://youtu.be/HEgYcOXiYiU)
