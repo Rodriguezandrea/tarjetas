@@ -1,3 +1,33 @@
-.tarjetas{
-    
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#tarjetas{
+    display: flex;
+    justify-content: center;
+}
+.tarjeta img{
+    width: 100%;
+}
+.tarjeta{
+    width: 17%;
+    /* margin: 0 20px; separamos las targetas*/
+    margin: 20px 20px 30px 20px;
+    background: white;
+    padding: 20px;
+    text-align: center ;
+    box-shadow: 1px 1px 11px 0px rgba(184, 182, 182, 0.877);
+}
+h2{
+    font-size: 15px;
+    color: #aaa;
+}
+.profecion{
+    color: #ccc;
+}
+.texto{
+    /* line-height: 20px; alto de lineas*/
+    line-height: 20px;
+    color: #808080;
 }
