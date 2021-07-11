@@ -1,0 +1,1 @@
+#Bueno, este proyecto es una práctica que hice para aprender y prácticar GIT y GitHub. hice 3 tres tarjetas con foto, nombres, profesión y le agrege texto
